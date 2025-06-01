@@ -20,6 +20,11 @@
           </div>
     </div>
     <div style="text-align: left;">
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 Education </h2> <br> 
+       <li style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">💻Samsung Software Academy For Youth (SSAFY) 12th, 2024.07 - 2025.06</li>
+       <li style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">🎓 Department of Electronic Engineering (Electronic Engineering Major), Chosun University,2019.03 - 2024.02 </li>
+    </div>
+    <div style="text-align: left;">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 AWARDS </h2> <br> 
        <li style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">2023 Chosun University IT Festival –🥈</li>
        <li style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">2023 Chosun University Department of Electronic Engineering, First Half Capstone Design Demonstration Competition - 🥉</li>
