@@ -8,12 +8,12 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Skills </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+        <br/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
